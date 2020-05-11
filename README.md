@@ -1,11 +1,11 @@
 # Honda Mobility Hacks: InsurCent
 
-<img src="content/hack_header.jpg"/>
+<img src="content/hack_header.jpg" alt="Banner from Honda Mobility Hacks event"/>
 
 Honda Mobility held a hackathon at Ann Arbor SPARK in the beginning of 2019. Teams were given access to data collected from autonomous vehicles and tasked with coming up with a novel use for the data. Three other participants and I formed a team the night of the event and our submission was awarded first place by the judges!
 
 ## Our Idea
-Can we incentivize drivers to user safer routes by gamifying insurance discounts?
+### Can we incentivize drivers to user safer routes by gamifying insurance discounts?
 
 [View slides outlining our idea.](https://github.com/Bcromas/honda_mobility_hacks/blob/master/content/InsurCent.pdf)
 
