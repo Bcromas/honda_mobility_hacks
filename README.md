@@ -15,4 +15,7 @@ Honda Mobility held a hackathon at Ann Arbor SPARK at the beginning of 2019. Tea
 We started by independently researching and brainstorming ideas and presenting them to the team. We provided feedback, compared and contrasted our ideas, and finally scored them in terms of originality, difficulty (to implement), and customer value. Through this process, we identified some overlap in the interests of drivers, insurance companies, and pedestrians/the general public. With an initial idea in hand, we set about refining it further and searching for complementary third-party data ultimately incorporating data from the MapQuest API. With our idea and data identified we iteratively explored the data including the MapQuest API using both JavaScript and Python and built up a proof of concept to showcase the feasibility and value of our idea: InsurCent.    
 
 ## The Team
-
+* [Cassandra Eddy](https://www.linkedin.com/in/cassandra-eddy-885a40112/)
+* [Parth Chopra](https://www.linkedin.com/in/parth-chopra-b7414068/)
+* [Dan D'Onofrio](https://www.linkedin.com/in/dan-d-onofrio-769697170/)
+* me
