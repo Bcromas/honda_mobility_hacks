@@ -8,6 +8,7 @@ Honda Mobility held a hackathon at Ann Arbor SPARK in the beginning of 2019. Tea
 Can we incentivize drivers to user safer routes by gamifying insurance discounts?
 
 [View slides outlining our idea.](https://github.com/Bcromas/honda_mobility_hacks/blob/master/content/InsurCent.pdf)
+
 <img src="content/hack_insurcent.png" width="200" height="200" />
 
 ## Our Approach
