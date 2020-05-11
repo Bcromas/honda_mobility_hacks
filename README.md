@@ -18,4 +18,4 @@ We started by independently researching and brainstorming ideas and presenting t
 * [Cassandra Eddy](https://www.linkedin.com/in/cassandra-eddy-885a40112/)
 * [Parth Chopra](https://www.linkedin.com/in/parth-chopra-b7414068/)
 * [Dan D'Onofrio](https://www.linkedin.com/in/dan-d-onofrio-769697170/)
-* me
+* [Bryan Romas](https://www.linkedin.com/in/bryan-romas/)
